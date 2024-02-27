@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFBC7C&random=false&width=435&lines=Um+estudante+de+Software+;Apaixonado+por+melhorar+cada+dia;%22One+day+or+day+one%22" alt="Typing SVG" /></a>
     
 - 🐍 Estudando Python
+-    Estudando PHP
 - ♨️ Estudando Java Script
 - 🌱 Faculdade Engenharia da Software na FIAP
 - 📫 Contate-me no email: eduardodallabella@gmail.com
