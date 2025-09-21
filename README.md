@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F02464&width=435&lines=Sofware+Engineering+Student+at+FIAP;PHP+Dev+at+FIAP;Trying+to+get+better+everydar;%22One+day+or+day+one%22" alt="Typing SVG" />
 </a>
     
+- 🟣 PHP Developer
 - 🐍 Studying Python
-- 🟣 Studying PHP
-- ♨️ Studying Java Script
+- ♨️ Studying Java
 - 🌱 Doing my college in Software Engineering at FIAP
 - 📫 Send me an email: eduardodallabella@gmail.com
 
