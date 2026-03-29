@@ -1,14 +1,18 @@
-# 👋 Hi, I'm Eduardo Dallabella Lima! Welcome to my GitHub! 😊
+# 👋 **Hi, I'm Eduardo Dallabella Lima!**  
+Welcome to my GitHub! 🎉 I'm a passionate Software Engineering student and developer, here to share my work and knowledge. 😊
 
-I'm a passionate developer and student in Software Engineering. Here's a bit about me:
+---
 
-- 💻 **PHP Developer** with a focus on web development.
-- 🐍 Currently diving into **Python** – always learning!
-- ☕ Exploring **Java** and its applications in software engineering.
-- 🎓 Pursuing a degree in **Software Engineering** at FIAP.
-- 📬 Feel free to reach out: [eduardodallabella@gmail.com](mailto:eduardodallabella@gmail.com)
+### 👨‍💻 **About Me:**
+- 💻 **PHP Developer** - Building the web, one line of code at a time.
+- 🐍 **Learning Python** – Diving into data science, automation, and more!
+- ☕ **Exploring Java** – Gaining experience with object-oriented programming.
+- 🎓 **Software Engineering Student** at **FIAP** – Continuing to grow and learn in this amazing field!
+- 📬 **Let’s connect!** - Email me: [eduardodallabella@gmail.com](mailto:eduardodallabella@gmail.com)
 
-### 🔗 Let's Connect:
+---
+
+### 🌐 **Find Me Online:**
 <div> 
   <a href="mailto:eduardodallabella@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" target="_blank">
@@ -21,17 +25,26 @@ I'm a passionate developer and student in Software Engineering. Here's a bit abo
   </a> 
 </div>
 
-### 🚀 Current Projects:
-- 🧑‍💻 **Personal website** using **PHP**, **JavaScript**, and **CSS** (coming soon).
-- 🔍 Exploring machine learning with **Python** in my free time.
-- 🔄 Contributing to open-source projects – **Check out my repositories**!
+---
 
-### 📚 What I'm Learning:
-- 📚 **PHP**, **Python**, and **Java** to broaden my programming skills.
-- 🎮 Game development using **C#** and **Unity**.
-- 📊 Data science and AI tools with **Python**.
+### 🚀 **Current Projects:**
+- 🧑‍💻 **Personal Website** – Building a sleek personal site using **PHP**, **JavaScript**, and **CSS**. (Coming soon! ✨)
+- 🔍 **Machine Learning Exploration** – Getting hands-on with **Python** to build ML models.
+- 🔄 **Contributing to Open Source** – Check out the repositories I'm contributing to! Contributions welcomed. 🤝
 
-### 📈 GitHub Stats:
+---
+
+### 📚 **What I’m Learning:**
+- 🐍 **Python** – Working on projects related to data science and web scraping.
+- ☕ **Java** – Developing my skills with object-oriented programming.
+- 🎮 **Game Development** – Learning **C#** and **Unity** to build interactive games.
+- 📊 **Data Science** – Analyzing and visualizing data using **Python** and libraries like **Pandas** and **Matplotlib**.
+
+---
+
+### 📈 **GitHub Stats:**  
 ![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduDalla&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-Feel free to explore my projects and reach out for collaboration! 🤝
+---
+
+💬 **Feel free to reach out to me for collaboration or just to chat about tech!**
