@@ -42,9 +42,4 @@ Welcome to my GitHub! 🎉 I'm a passionate Software Engineering student and dev
 
 ---
 
-### 📈 **GitHub Stats:**  
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduDalla&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
 💬 **Feel free to reach out to me for collaboration or just to chat about tech!**
