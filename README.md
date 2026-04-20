@@ -1,5 +1,5 @@
-# 👋 **Hi, I'm Eduardo Dallabella Lima!**  
-Welcome to my GitHub! 🎉 I'm a passionate Software Engineering student and developer, here to share my work and knowledge. 😊
+# 👋 **Hi, nice to see you here!**  
+I'm Eduardo Dallabella Lima, and I'm a passionate Software Engineering student and developer, here to share my work and knowledge. 😊
 
 ---
 
@@ -25,14 +25,12 @@ Welcome to my GitHub! 🎉 I'm a passionate Software Engineering student and dev
   </a> 
 </div>
 
----
 
-### 🚀 **Current Projects:**
-- 🧑‍💻 **Personal Website** – Building a sleek personal site using **PHP**, **JavaScript**, and **CSS**. (Coming soon! ✨)
-- 🔍 **Machine Learning Exploration** – Getting hands-on with **Python** to build ML models.
-- 🔄 **Contributing to Open Source** – Check out the repositories I'm contributing to! Contributions welcomed. 🤝
-
----
+### 👾 Stats
+<a href="https://github.com/Enzoreal100">
+<img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDalla&layout=donut&langs_count=7&theme=merko"/>
+<img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api?username=EduDalla&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+</div>
 
 ### 📚 **What I’m Learning:**
 - 🐍 **Python** – Working on projects related to data science and web scraping.
