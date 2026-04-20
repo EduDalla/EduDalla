@@ -1,8 +1,6 @@
 # 👋 **Hi, nice to see you here!**  
 I'm Eduardo Dallabella Lima, and I'm a passionate Software Engineering student and developer, here to share my work and knowledge. 😊
 
----
-
 ### 👨‍💻 **About Me:**
 - 💻 **PHP Developer** - Building the web, one line of code at a time.
 - 🐍 **Learning Python** – Diving into data science, automation, and more!
@@ -33,10 +31,10 @@ I'm Eduardo Dallabella Lima, and I'm a passionate Software Engineering student a
 </div>
 
 ### 📚 **What I’m Learning:**
-- 🐍 **Python** – Working on projects related to data science and web scraping.
 - ☕ **Java** – Developing my skills with object-oriented programming.
-- 🎮 **Game Development** – Learning **C#** and **Unity** to build interactive games.
-- 📊 **Data Science** – Analyzing and visualizing data using **Python** and libraries like **Pandas** and **Matplotlib**.
+- 🎮 **C#** – Learning **.NET** to build more complex systems.
+- 🐍 **Python** – Working on projects related to data science and web scraping.
+- 📊 **Artificial Inteligence** – Analyzing and visualizing how IA can be used and created in different processes.
 
 ---
 
