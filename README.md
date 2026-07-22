@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Building+solutions+between+software%2C+hardware+and+security.;Turning+ideas+into+real-world+projects.;Always+learning.+Always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Building+solutions+between+software%2C+hardware+and+security.;Turning+ideas+into+real-world+projects.;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
 Software developer and engineering student building practical solutions through code, experimentation and continuous learning.
 
